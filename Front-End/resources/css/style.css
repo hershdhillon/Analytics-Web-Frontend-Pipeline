@@ -83,3 +83,7 @@ h1 {
 .refresh-button:hover {
     background: #EB6547;
 }
+
+.label {
+    font-size: 0;
+}
