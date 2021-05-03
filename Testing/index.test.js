@@ -47,7 +47,7 @@ describe('Testing Remote MongoDB Connectivity', () => {
     let db;
 
     beforeAll(async () => {
-        const __MONGO_URI__ = `mongodb+srv://harsh:password13@cluster0.eu19p.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`
+        const __MONGO_URI__ = `mongodb+srv://xxxx:xxxxxx@cluster0.eu19p.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`
         const __MONGO_DB_NAME__ = `myFirstDatabase`
         connection = await MongoClient.connect(__MONGO_URI__, {
             useNewUrlParser: true,
