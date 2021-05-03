@@ -1,6 +1,6 @@
 # Centro Delivery Parsing Solution
 
-GitHub repo to host Centro's ad placement exercise solution.
+GitHub repo to host the Analytics Web Frontend Pipeline using Jupyter Noterbook, MongoDB and HTML/CSS/JS stack.
 
 ## Design Overview
 
