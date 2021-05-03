@@ -1,4 +1,4 @@
-# Centro Delivery Parsing Solution
+# Analytics Web Frontend Pipeline
 
 GitHub repo to host the Analytics Web Frontend Pipeline using Jupyter Noterbook, MongoDB and HTML/CSS/JS stack.
 
