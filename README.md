@@ -16,7 +16,7 @@ This Dashboard App has three main components.
 1. The Dashboard App can be accessed from this [link](https://main.d19829dc7ci9hs.amplifyapp.com/ "Impressions Analytics"), deployed on AWS Amplify.
 2. The App can also be opened on a local browser from the source file present in Front-End folder. Clone the Repo using,
    ```sh
-   git clone https://github.com/hershdhillon/Centro-Delivery-Parsing-Solution.git
+   git clone https://github.com/hershdhillon/Analytics-Web-Frontend-Pipeline.git
    ```
 
 ## Testing
